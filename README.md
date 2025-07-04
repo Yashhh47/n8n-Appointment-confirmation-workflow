@@ -26,6 +26,20 @@
   <br/><sub><i>Drag-and-drop logic in n8n’s editor.</i></sub>
 </p>
 
+### ✅ Workflow Executed Successfully
+<p align="center">
+  <img src="assets/workflow-executed.png" width="600" alt="Workflow execution">
+</p>
+
+### 📬 Email Confirmation Sample
+<p align="center">
+  <img src="assets/email-preview.png" width="600" alt="Email preview"><br/>
+  <sub><i>The exact mail a user receives</i></sub>
+</p>
+
+
+
+
 ---
 
 ## ✨ Key Features
