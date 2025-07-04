@@ -22,7 +22,7 @@
 | **≥ 7 days** | 🔹 Node 1 – *Date Check* | No mail (stay silent) 💤 |
 
 <p align="center">
-  <img src="https://github.com/Yashhh47/n8n-Appointment-confirmation-workflow/raw/main/.github/assets/flow-preview.png" width="650" alt="Workflow preview">
+  <img src="assets/flow-preview.png" width="650" alt="Workflow preview">
   <br/><sub><i>Drag-and-drop logic in n8n’s editor.</i></sub>
 </p>
 
